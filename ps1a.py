@@ -3,6 +3,7 @@ This script is used to find how much months you need
 to afford to the downpayment of a house. Assuming you
 are save a certain percentage of your monthly salary to 
 saving account. 
+It passed ALL test cases.
 """
 annual_salary = float(input("Enter your annual salary: "))
 portion_saved = float(input("Enter % of your salary to save, as a decimal: "))
