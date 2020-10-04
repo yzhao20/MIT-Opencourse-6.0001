@@ -1,6 +1,7 @@
 """
 Assume that annualy salary has a fixed percentage increse every 6 months.
 Under this case, how many months needed to afford the downpayment.
+It passed ALL test cases.
 """
 annual_salary = float(input("Enter your annual salary: "))
 portion_saved = float(input("Enter % of your salary to save, as a decimal: "))
