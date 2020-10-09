@@ -1,6 +1,9 @@
-### MIT_opencourse_6.0001
-* This is an excellent class about computer science and python programming. 
-* Highly recommended to new python programmers.
-
-Best,
-Yunfeng
+#### MIT_opencourse_6.0001
+Some important topics are covered as follows:
+##### 1. Branching and Iteration
+##### 2. Intro. to Algorithm
+##### 3. Data Structure and Functions
+##### 4. Recursion, Debugging
+##### 5. OOP, Classes and Inheritance
+##### 6. Program Efficiency
+##### 7. Searching and Sorting
