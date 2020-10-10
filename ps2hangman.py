@@ -61,7 +61,11 @@ def is_word_guessed(secret_word, letters_guessed):
       False otherwise
     '''
     # FILL IN YOUR CODE HERE AND DELETE "pass"
-    pass
+    for i in secret_word:  # Need an approriate indent space, i.e 4 spaces, syntax error otherwise.
+        if i not in letters_guessed:   # we need the not key word to make logic clear, and don't need a else statement in this case.
+            return False
+    return True  # This return statement must be in this position, as that's AFTER the for loop.
+    #pass
 
 
 
