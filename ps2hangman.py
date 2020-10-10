@@ -77,11 +77,23 @@ def get_guessed_word(secret_word, letters_guessed):
       which letters in secret_word have been guessed so far.
     '''
     # FILL IN YOUR CODE HERE AND DELETE "pass"
-    l = list(secret_word)
+    l = list(secret_word)     # Convert the string to a list, so that we can assign value to list (we CAN'T assign value to string based on string index)
     for i in range(len(secret_word)):
-        if l[i] not in letters_word:
-            l[i] = "_ "
-    s = "".join(l)
+        if l[i] not in letters_guessed:   
+            l[i] = "_ "        # If not in the letters_guessed, assign "_ " to that specific indices.
+    s = "".join(l)     # Convert that list to string, remove all the spaces between them.
+    return s
+    """
+    This solution may be MORE straightforward.
+    guess_word = ""             # Create an empty string
+    for char in secret_word:
+        if char not in letters_guessed:
+            guess_word += "_ "      # For every char in secret word, if not in letters_guessed then assign "_ " to it.
+        else:
+            guess_word += char    # If in letters_guessed, just keep it.
+    return guess_word
+    """
+    
     #pass
 
 
