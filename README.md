@@ -1,11 +1,9 @@
 #### MIT_opencourse_6.0001
 Hi Guys,
 
-As no official solution available, please check out mine. 
+As no official solution available, please check out mine. I would be happy to discuss the details if you have a different or more efficient solution. 
 
-I would be happy to discuss the details if you have a different or more efficient solution. 
-
-Thank you. 
+Some important areas are covered as follows:
 
 ##### 1. Branching and Iteration
 ##### 2. Intro. to Algorithm
@@ -14,3 +12,5 @@ Thank you.
 ##### 5. OOP, Classes and Inheritance
 ##### 6. Program Efficiency
 ##### 7. Searching and Sorting
+
+Thank you. 
