@@ -1,7 +1,7 @@
 #### MIT_opencourse_6.0001
 Hi Guys,
 
-As no solution available, please check out mine for the problems. I would be happy to discuss the details if you have a different or more efficient solution. 
+As no official solution available, please check out mine. I would be happy to discuss the details if you have a different or more efficient solution. 
 
 Thank you. 
 
