@@ -1,7 +1,7 @@
 #### MIT_opencourse_6.0001
 Hi Guys,
 
-As there's no official solution available, please check out mine. I would be happy to discuss the details if you have a different or more efficient solution. 
+As there's no official solution available, please check out the below. I'd be happy to discuss the details if you have a different or more efficient solution. 
 
 Some major topics are covered as follows:
 
