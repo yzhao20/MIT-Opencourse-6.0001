@@ -3,7 +3,7 @@ Hi Guys,
 
 As there's no official solution available at this moment, please check out the below. I'd be happy to discuss the details if you have a different or more efficient solution. 
 
-Some major topics are covered as follows:
+Some major topics are covered as below:
 
 ##### 1. Branching and Iteration
 ##### 2. Intro. to Algorithm
